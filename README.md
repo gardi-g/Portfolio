@@ -3,7 +3,7 @@
 # Installation 
   1. Clone the repo 
    ```sh
-   git clone https://github.com/gardi-g/Coding-Challenge-Torqata-
+   git clone https://github.com/gardi-g/Portfolio
    ```
   2. If you don't have Node.js https://nodejs.org/en/download/
  
