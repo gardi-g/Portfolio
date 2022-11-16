@@ -17,7 +17,7 @@ const About = () => {
                     Currently I am attending Penn State Harrisburg pursuing on Bachelors of Computer Science.
                     My expected graduation is December 2022.<br />
                     The latest project I finished was a sponsored project by Penn State College of Medicine. I've also finished numerous school projects.<br />
-                    I am humble, hard-working, eager and also loves to learn new things.<br />
+                    I am humble, hard-working, eager and also love to learn new things.<br />
                     Here are a few technologies I've been working with recently:
                     </p> 
                     <ul className="skills-list">
