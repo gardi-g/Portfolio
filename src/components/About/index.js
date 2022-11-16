@@ -16,11 +16,8 @@ const About = () => {
                     Hello! My name is Kerem. I am 23 years old from Newtown, Pennsylvania.<br />
                     Currently I am attending Penn State Harrisburg pursuing on Bachelors of Computer Science.
                     My expected graduation is December 2022.<br />
-                    Since when I started my programming journey, 
-                    I've been working so hard to improve my skills and become a better developer.<br /> 
-                    I've finished numerous 
-                    school projects and also a sponsored project for Penn State College of Medicine.<br />
-                    I am confident and ambitious to grow and improve my skills to become the best developer I can be! <br />
+                    The latest project I finished was a sponsored project by Penn State College of Medicine. I've also finished numerous school projects.<br />
+                    I am humble, hard-working, eager and also loves to learn new things.<br />
                     Here are a few technologies I've been working with recently:
                     </p> 
                     <ul className="skills-list">
